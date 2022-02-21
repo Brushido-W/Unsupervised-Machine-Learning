@@ -3,7 +3,7 @@
 In this task, we explore the differences between various Cities using
 unsupervised learning methods such as Principal Component Analysis (PCA) and
 various clustering techniques. The data we will be exploring contains 48 cities.
-There are 4 variables for each citi in total.
+There are 4 variables for each city.
 
 This problem can be broken down into the following steps:
 
